@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b7466f-9ad7-4fb7-aa3b-7844b7bbb61b" name="Changes" comment="scaffold added.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/SortingAlgorithms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/SortingAlgorithms/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/SortingAlgorithms/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
