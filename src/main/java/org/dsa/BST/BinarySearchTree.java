@@ -6,7 +6,26 @@ public class BinarySearchTree {
 
         BinarySearchTree myBST = new BinarySearchTree();
 
-        System.out.println("Root: " + myBST.getRoot());
+        myBST.insertNode(10);
+        myBST.insertNode(5);
+        myBST.insertNode(14);
+        myBST.insertNode(17);
+        myBST.insertNode(12);
+        myBST.insertNode(19);
+        myBST.insertNode(4);
+        myBST.insertNode(8);
+
+        boolean result=myBST.Contains(22);
+        if(result==true)
+        {
+            System.out.println("the number is in the list");
+        }
+        else {
+            System.out.println("Number is not in the List");
+        }
+
+        System.out.println("Root: " + myBST.getRoot().value);
+        System.out.println("Root: " + myBST.getRoot().left.value);
 
     }
 
@@ -66,6 +85,34 @@ public class BinarySearchTree {
                 }
             }
         }
+        return false;
+    }
+
+    public boolean Contains(int value){
+            if(root==null)
+            {
+                return false;
+            }
+            Node temp=root;
+            while(temp!=null)
+            {
+                if(value<temp.value)
+                {
+                    temp=temp.left;
+                }
+                else if(value>temp.value)
+                {
+                        temp=temp.right;
+                }
+                else if(value==temp.value)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
         return false;
     }
 

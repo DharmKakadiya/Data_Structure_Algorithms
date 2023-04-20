@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b7466f-9ad7-4fb7-aa3b-7844b7bbb61b" name="Changes" comment="scaffold added.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dsa/BST/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dsa/BST/BinarySearchTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Dharm/Documents/GITHUB/Data_Structure_Algorithms/src/main/java/org/dsa/Stack"
+    "last_opened_file_path": "C:/Users/Dharm/Documents/GITHUB/Data_Structure_Algorithms"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,7 +48,7 @@
       <recent name="C:\Users\Dharm\Documents\GITHUB\Data_Structure_Algorithms\src\main\java\org\dsa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stack">
+  <component name="RunManager" selected="Application.BinarySearchTree">
     <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dsa.BST.BinarySearchTree" />
       <module name="Data_Structure_Algorithms" />
@@ -76,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stack" />
         <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.Stack" />
       </list>
     </recent_temporary>
   </component>
