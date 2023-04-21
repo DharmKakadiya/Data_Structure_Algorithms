@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b7466f-9ad7-4fb7-aa3b-7844b7bbb61b" name="Changes" comment="scaffold added.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/SortingAlgorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/SortingAlgorithms/MergeSortLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +56,7 @@
       <recent name="C:\Users\Dharm\Documents\GITHUB\Data_Structure_Algorithms\src\main\java\org\dsa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort">
-    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.dsa.BST.BinarySearchTree" />
-      <module name="Data_Structure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.dsa.BST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MergeSortLinkedList">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dsa.SortingAlgorithms.BubbleSort" />
       <module name="Data_Structure_Algorithms" />
@@ -94,6 +83,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dsa.SortingAlgorithms.MergeSort" />
+      <module name="Data_Structure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dsa.SortingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dsa.SortingAlgorithms.MergeSortLinkedList" />
+      <module name="Data_Structure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dsa.SortingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dsa.SortingAlgorithms.SelectionSort" />
       <module name="Data_Structure_Algorithms" />
@@ -107,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.dsa.Stack.Stack" />
-      <module name="Data_Structure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.dsa.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortLinkedList" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.Stack" />
       </list>
     </recent_temporary>
   </component>
