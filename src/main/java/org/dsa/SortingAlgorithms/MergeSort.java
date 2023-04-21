@@ -1,8 +1,7 @@
 package org.dsa.SortingAlgorithms;
 import java.util.Arrays;
 public class MergeSort {
-
-
+    
         public static void main(String[] args) {
 
             int[] originalArray = {3,1,4,2};
