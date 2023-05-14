@@ -1,6 +1,4 @@
-package org.dsa;
-
-import java.util.List;
+package org.dsa.Stream_Practice;
 
 public class Book {
     String bname;

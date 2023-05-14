@@ -1,8 +1,17 @@
-package org.dsa;
+package org.dsa.Stream_Practice;
 
 public class Author {
     String surname;
     int age;
+    String gender;
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
 
     public String getSurname() {
         return surname;
@@ -28,8 +37,9 @@ public class Author {
                 '}';
     }
 
-    public Author(String surname, int age) {
+    public Author(String surname, int age, String gender) {
         this.surname = surname;
         this.age = age;
+        this.gender = gender;
     }
 }
